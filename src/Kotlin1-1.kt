@@ -15,3 +15,4 @@ fun parseInt(s: String?): Int
         if(ch !in '0'..'9') throw IllegalArgumentException("Input must be number")
     return s.toInt()
 }
+
