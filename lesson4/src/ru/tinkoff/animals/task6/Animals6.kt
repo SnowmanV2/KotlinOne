@@ -1,15 +1,5 @@
-package ru.tinkoff.animals
-const val MALE: Byte = 0
-const val FEMALE: Byte = 1
-abstract class Pet(val name: String,val sex: Byte, var age: Int) {
-    fun eat() {
-        println("$name поел")
-    }
-    fun runAway() {
-        println("$name убежал${ if (sex == FEMALE) "a" else ""}, нагадив в угол напоследок. Вы - отвратильный хозяин")
-    }
+package ru.tinkoff.animals.task6
 
-}
 interface Flyable {
     fun fly()
 }
@@ -25,8 +15,7 @@ interface Crawlable {
 interface Voiceable {
     fun voice()
 }
-class Dog(name: String, sex: Byte, age: Int) :
-        Pet(name, sex, age),
+class Dog(val name: String, val age: Int) :
         Walkable,
         Swimable,
         Voiceable {
@@ -42,8 +31,7 @@ class Dog(name: String, sex: Byte, age: Int) :
         println("Гав.")
     }
 }
-class Cat(name: String, sex: Byte, age: Int) :
-        Pet(name, sex, age),
+class Cat(val name: String, val age: Int) :
         Walkable,
         Voiceable {
     override fun walk() {
@@ -53,8 +41,7 @@ class Cat(name: String, sex: Byte, age: Int) :
         println("Мяу")
     }
 }
-class Parrot(name: String, sex: Byte, age: Int) :
-        Pet(name, sex, age),
+class Parrot(val name: String, val age: Int) :
         Flyable,
         Voiceable {
     override fun fly() {
@@ -64,15 +51,13 @@ class Parrot(name: String, sex: Byte, age: Int) :
         println("Здравствуй, товарищ.")
     }
 }
-class Snake(name: String, sex: Byte, age: Int) :
-        Pet(name, sex, age),
+class Snake(val name: String, val age: Int) :
         Crawlable {
     override fun crawl() {
-        println("Пополз${ if (sex == FEMALE) "ла" else "" }")
+        println("Поползла")
     }
 }
-class Fish(name: String, sex: Byte, age: Int) :
-        Pet(name, sex, age),
+class Fish(val name: String, val age: Int) :
         Swimable,
         Voiceable {
     override fun swim() {
@@ -85,9 +70,9 @@ class Fish(name: String, sex: Byte, age: Int) :
 }
 
 fun main(){
-    val dog = Dog("Pes",MALE,7)
-    val cat = Cat("Kot",MALE,8)
-    val parrot = Parrot("Fedor", MALE,3)
-    val snake = Snake("Raisa Petrovna", FEMALE,4)
-    val fish = Fish("Murzik", MALE,1)
+    val dog = Dog("Pes", 7)
+    val cat = Cat("Kot", 8)
+    val parrot = Parrot("Fedor", 3)
+    val snake = Snake("Raisa Petrovna", 4)
+    val fish = Fish("Murzik", 1)
 }

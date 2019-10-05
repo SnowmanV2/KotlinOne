@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79934c70-5ac9-4e42-aec1-0e0af1ada25a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/META-INF/lesson4.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/META-INF/lesson4.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/AnimalsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Crawlable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Flyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Parrot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Swimable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Voiceable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Walkable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animals.kt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +40,21 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ru/tinkoff/animals/task7" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\animals\task7" />
+      <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\animals\task6" />
+      <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\animals\task5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\cats\task10" />
+      <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\cats" />
+      <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\car" />
+      <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\animals" />
+      <recent name="C:\Kotlin\lesson4\src\Cats" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,15 +68,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="ru.tinkoff.animals.AnimalsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.ru.tinkoff.animals.task7.Animals7Kt">
+    <configuration name="ru.tinkoff.animals.task5.Animals5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="lesson4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.animals.AnimalsKt" />
+      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.animals.task5.Animals5Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.tinkoff.animals.task6.Animals6Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="lesson4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.animals.task6.Animals6Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.tinkoff.animals.task7.Animals7Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="lesson4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.animals.task7.Animals7Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.tinkoff.car.Car9Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="lesson4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.car.Car9Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.tinkoff.cats.task11.Cats11Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="lesson4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.cats.task11.Cats11Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,7 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ru.tinkoff.animals.AnimalsKt" />
+        <item itemvalue="Kotlin.ru.tinkoff.animals.task7.Animals7Kt" />
+        <item itemvalue="Kotlin.ru.tinkoff.animals.task5.Animals5Kt" />
+        <item itemvalue="Kotlin.ru.tinkoff.animals.task6.Animals6Kt" />
+        <item itemvalue="Kotlin.ru.tinkoff.cats.task11.Cats11Kt" />
+        <item itemvalue="Kotlin.ru.tinkoff.car.Car9Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +162,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
