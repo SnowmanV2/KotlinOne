@@ -22,9 +22,22 @@ abstract class Pet(val name: String,val sex: Int, var age: Int) {
             }
         }
     }
-    fun runAway() {
+    private fun runAway() {
         println("$name убежал${ if (sex == FEMALE) "a" else ""}, нагадив в угол напоследок. Вы - отвратильный хозяин")
         isHere = false
+    }
+    fun endDayCheck() {
+        if (!isCleaned) runAway() //Убегает, если за питомцем не убрали один день
+        if (isHungry) {
+            runAway() //Убегает, если питомец был голоден, а его не покормили
+        } else {
+            if (isFull) { //Если питомец сыт, за ним надо будет убрать
+                isFull = false
+                isCleaned = false
+            } else { // Если питомец не был сыт, он становится голоден
+                isHungry = true
+            }
+        }
     }
 
 }

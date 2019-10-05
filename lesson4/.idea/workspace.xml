@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79934c70-5ac9-4e42-aec1-0e0af1ada25a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/Animals.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/Game.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/PetTest1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/META-INF/lesson4.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/META-INF/lesson4.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Animals7Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Animals7Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Fish.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Parrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Parrot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Pet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Snake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/GameKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/GameKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Owner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Owner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Parrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Parrot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Snake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/Animals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/Animals.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/Game.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/Game.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +28,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -34,15 +39,31 @@
   <component name="ProjectId" id="1RhBmSk1mKkgluzY87qAMlDyg5Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ru/tinkoff/animals/task8" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.tinkoff.animals.task8" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\animals\task8" />
       <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\animals\task7" />
       <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\animals\task6" />
       <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\animals\task5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\cats\task10" />
@@ -65,41 +86,65 @@
     </option>
   </component>
   <component name="RunManager" selected="Kotlin.ru.tinkoff.animals.task8.GameKt">
-    <configuration name="ru.tinkoff.animals.task5.Animals5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="OwnerTest.makeAction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson4" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.animals.task5.Animals5Kt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.tinkoff.animals.task8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.tinkoff.animals.task8" />
+      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.animals.task8.OwnerTest" />
+      <option name="METHOD_NAME" value="makeAction" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.tinkoff.animals.task6.Animals6Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="PetTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson4" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.animals.task6.Animals6Kt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.tinkoff.animals.task8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.tinkoff.animals.task8" />
+      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.animals.task8.PetTest1" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.tinkoff.animals.task7.Animals7Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="PetTest1.endDayCheckGetHungry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson4" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.animals.task7.Animals7Kt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.tinkoff.animals.task8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.tinkoff.animals.task8" />
+      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.animals.task8.PetTest1" />
+      <option name="METHOD_NAME" value="endDayCheckGetHungry" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetTest1.endDayCheckRunAway" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.tinkoff.animals.task8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.tinkoff.animals.task8" />
+      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.animals.task8.PetTest1" />
+      <option name="METHOD_NAME" value="endDayCheckRunAway" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,26 +162,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.tinkoff.cats.task11.Cats11Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="lesson4" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.cats.task11.Cats11Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.ru.tinkoff.animals.task8.GameKt" />
-        <item itemvalue="Kotlin.ru.tinkoff.animals.task7.Animals7Kt" />
-        <item itemvalue="Kotlin.ru.tinkoff.animals.task5.Animals5Kt" />
-        <item itemvalue="Kotlin.ru.tinkoff.animals.task6.Animals6Kt" />
-        <item itemvalue="Kotlin.ru.tinkoff.cats.task11.Cats11Kt" />
+        <item itemvalue="JUnit.PetTest1" />
+        <item itemvalue="JUnit.OwnerTest.makeAction" />
+        <item itemvalue="JUnit.PetTest1.endDayCheckGetHungry" />
+        <item itemvalue="JUnit.PetTest1.endDayCheckRunAway" />
       </list>
     </recent_temporary>
   </component>

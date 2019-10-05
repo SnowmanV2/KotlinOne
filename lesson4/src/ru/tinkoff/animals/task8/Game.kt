@@ -1,7 +1,6 @@
 package ru.tinkoff.animals.task8
 
-import java.util.*
-
+import java.util.Scanner
 val scan = Scanner(System.`in`)
 var day = 1 // Текущий игровой день
 class Owner(var pet: Pet) {
@@ -50,17 +49,7 @@ class Owner(var pet: Pet) {
         passDay()
     }
     private fun passDay() {
-        if (!pet.isCleaned) pet.runAway() //Убегает, если за питомцем не убрали один день
-        if (pet.isHungry) {
-            pet.runAway() //Убегает, если питомец был голоден, а его не покормили
-        } else {
-            if (pet.isFull) { //Если питомец сыт, за ним надо будет убрать
-                pet.isFull = false
-                pet.isCleaned = false
-            } else { // Если питомец не был сыт, он становится голоден
-                pet.isHungry = true
-            }
-        }
+        pet.endDayCheck()
         if (pet.isHere) { //Если питомец не убежал, начинается новый день
             ++day
             println("____________________________________________")
