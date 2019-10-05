@@ -2,22 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79934c70-5ac9-4e42-aec1-0e0af1ada25a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/Animals.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/Game.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/lesson4/META-INF/lesson4.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/META-INF/lesson4.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/AnimalsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Crawlable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Flyable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Parrot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Snake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Swimable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Voiceable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/Walkable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Animals7Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Animals7Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Parrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Parrot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task7/Snake.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,10 +35,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ru/tinkoff/animals/task7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ru/tinkoff/animals/task8" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\animals\task8" />
       <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\animals\task7" />
       <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\animals\task6" />
       <recent name="C:\Kotlin\lesson4\src\ru\tinkoff\animals\task5" />
@@ -68,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ru.tinkoff.animals.task7.Animals7Kt">
+  <component name="RunManager" selected="Kotlin.ru.tinkoff.animals.task8.GameKt">
     <configuration name="ru.tinkoff.animals.task5.Animals5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="lesson4" />
       <option name="VM_PARAMETERS" />
@@ -108,14 +104,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.tinkoff.car.Car9Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ru.tinkoff.animals.task8.GameKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="lesson4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.car.Car9Kt" />
+      <option name="MAIN_CLASS_NAME" value="ru.tinkoff.animals.task8.GameKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ru.tinkoff.animals.task8.GameKt" />
         <item itemvalue="Kotlin.ru.tinkoff.animals.task7.Animals7Kt" />
         <item itemvalue="Kotlin.ru.tinkoff.animals.task5.Animals5Kt" />
         <item itemvalue="Kotlin.ru.tinkoff.animals.task6.Animals6Kt" />
         <item itemvalue="Kotlin.ru.tinkoff.cats.task11.Cats11Kt" />
-        <item itemvalue="Kotlin.ru.tinkoff.car.Car9Kt" />
       </list>
     </recent_temporary>
   </component>
