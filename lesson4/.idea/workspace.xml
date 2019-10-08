@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79934c70-5ac9-4e42-aec1-0e0af1ada25a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/PetTest1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Fish.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/GameKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/GameKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Owner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Owner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Parrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Parrot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Pet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson4/ru/tinkoff/animals/task8/Snake.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/Animals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/Animals.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/Game.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/tinkoff/animals/task8/Game.kt" afterDir="false" />
-    </list>
+    <list default="true" id="79934c70-5ac9-4e42-aec1-0e0af1ada25a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
